@@ -1,0 +1,15 @@
+
+
+h1 {
+    
+    text-align: center;
+    text-align:blue;
+  }
+
+  p {
+    text-align: justify;
+  }  
+  .progress {
+    height: 100%;
+    background: #27ae60;
+  }
